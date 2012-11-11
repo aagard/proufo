@@ -10,3 +10,5 @@ Für die Benutzeroberfläche bietet sich XPCE an.
 ###Sources###
 
 *rssReader* by [http://www.virtuousprogrammer.com/?p=258](http://www.virtuousprogrammer.com/?p=258)
+
+*employee_example* by [http://www.swi-prolog.org/packages/xpce/UserGuide/sec-4.1.html](http://www.swi-prolog.org/packages/xpce/UserGuide/sec-4.1.html)
